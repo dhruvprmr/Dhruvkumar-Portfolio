@@ -14,4 +14,4 @@
 - Bootstrap grid
 - Media Query
 
-### Preview (https://dhruvprmr.github.io/Portfolio/)
+[### Preview](https://dhruvprmr.github.io/Portfolio/)
